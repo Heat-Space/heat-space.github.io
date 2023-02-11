@@ -1,0 +1,15 @@
+/**
+  * @name Omori
+  * @author Heat3Space
+  * @version 1.2.1
+  * @description Omori-like theme!
+  * @authorId 945413385409925130
+*/
+
+@import url('https://heat-space.github.io/OmoriTheme/OmoriTheme.css');
+
+:root {
+    --grayscale: 1;
+    --white_color: white;
+    --black_color: black;
+}
