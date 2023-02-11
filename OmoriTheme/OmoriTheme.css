@@ -1,0 +1,201 @@
+/* Basic Elements */
+
+:root {
+    --grayscale: 1;
+    --white_color: white;
+    --black_color: black;
+    filter: grayscale(var(--grayscale));
+}
+
+div, svg {
+    color: var(--black_color);
+}
+span {
+    color: gainsboro;
+}
+
+/* Upper Panel (Close, Hide, other buttons) */
+.winButtonMinMax-3RsPUg {
+    background-color: var(--white_color);
+}
+
+.winButtonClose-3Q8ZH5 {
+    background-color: var(--white_color);
+}
+
+.bg-1QIAus {
+    background-color: var(--white_color);
+}
+
+/* 'Is Typing' nickname */
+
+.text-3S7XCz {
+    color: var(--black_color);
+}
+
+/* Backgrounds */
+
+.contentColumnDefault-3eyv5o {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.contentColumnDefault-3eyv5o {background:var(--background-image) center/cover no-repeat;}
+
+.circleIconButton-1VxDrg {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.circleIconButton-1VxDrg {background:var(--background-image) center/cover no-repeat;}
+
+.members-3WRCEx {
+    --background-image: url('https://i.imgur.com/wubBoGL.png');
+}
+.members-3WRCEx {background:var(--background-image) center/cover no-repeat;}
+
+.content-1gYQeQ {
+    --background-image: url('https://i.imgur.com/wubBoGL.png');
+}
+.content-1gYQeQ {background:var(--background-image) center/cover no-repeat;}
+
+.layout-1qmrhw {
+    --background-image: url('https://i.imgur.com/wubBoGL.png');
+}
+.layout-1qmrhw {background:var(--background-image) center/cover no-repeat;}
+
+.form-3gdLxP {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.form-3gdLxP {background:var(--background-image) center/cover no-repeat;}
+
+.sidebarRegionScroller-FXiQOh {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+} 
+.sidebarRegionScroller-FXiQOh {background:var(--background-image) center/cover no-repeat;}
+
+
+.scrollerInner-2PPAp2 {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.scrollerInner-2PPAp2 {background:var(--background-image) center/cover no-repeat;}
+
+.contentRegionScroller-2_GT_N {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.contentRegionScroller-2_GT_N {background:var(--background-image) center/cover no-repeat;}
+
+.contentColumn-1C7as6 {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.contentColumn-1C7as6 {background:var(--background-image) center/cover no-repeat;}
+
+.item-3XjbnG {
+    --background-image: url('https://i.imgur.com/wubBoGL.png');
+     
+}
+.item-3XjbnG {background:var(--background-image) center/cover no-repeat;}
+
+.bd-select {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.bd-select {background:var(--background-image) center/cover no-repeat;}
+
+.content-26qlhD {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.content-26qlhD {background:var(--background-image) center/cover no-repeat;}
+
+.content-2hZxGK  {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.content-2hZxGK  {background:var(--background-image) center/cover no-repeat;}
+
+.scroller-kQBbkU {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+
+.scroller-kQBbkU {background:var(--background-image) center/cover no-repeat;}
+
+.scrollableContainer-15eg7h {
+    --background-image: url('https://i.imgur.com/wubBoGL.png');
+}
+.scrollableContainer-15eg7h {background:var(--background-image) center/cover no-repeat;}
+/* Other Elements */
+
+.markup-eYLPri {
+    color: var(--black_color);
+}
+
+.defaultColor-1EVLSt {
+    color: var(--black_color);
+}
+
+.bd-name {
+    color: gainsboro;
+}
+
+.eyebrow-1Shfyi {
+    color: var(--black_color);
+}
+
+.defaultColor-1EVLSt {
+    color: var(--white_color);
+}
+
+.repliedTextPreview-1bvxun {
+    color: var(--black_color);
+}
+
+.mention {
+    background-color: var(--black_color);
+    color: var(--white_color);
+}
+
+.mentioned-Tre-dv {
+    background-color: rgba(0, 0, 0, .5);
+}
+
+.header-3OsQeK {
+    background-color: var(--black_color);
+}
+
+.channelName-3KPsGw {
+    color: gainsboro;
+}
+
+.overflow-1wOqNV {
+    color: gainsboro;
+}
+
+.lineClamp1-1voJi7 {
+    color: gainsboro;
+}
+
+.tabBarItemContainer-2HdIlr {
+    color: gainsboro;
+}
+
+.background-Gjdjzm {
+    color: var(--white_color);
+}
+
+.marketingLogoIcon-3HQY2K {
+    color: var(--black_color);
+}
+
+.marketingHeader-CpUYrf {
+    color: var(--black_color);
+}
+
+.descriptionStandalone-3ChjDk {
+    color: var(--black_color);
+}
+
+.text-md-normal-2rFCH3 {
+    color: var(--black_color);
+}
+
+.heading-2w-1WC {
+    color: var(--black_color);
+}
+
+.label-2gNW3x {
+    color: var(--white_color);
+}
