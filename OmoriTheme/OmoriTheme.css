@@ -14,6 +14,8 @@ span {
     color: gainsboro;
 }
 
+
+
 /* Upper Panel (Close, Hide, other buttons) */
 .winButtonMinMax-3RsPUg {
     background-color: var(--white_color);
@@ -34,6 +36,11 @@ span {
 }
 
 /* Backgrounds */
+
+.jumpToPresentBar-1cEnH0 {
+    --background-image: url('https://i.imgur.com/QXVk1er.png');
+}
+.jumpToPresentBar-1cEnH0 {background:var(--background-image) center/cover no-repeat;}
 
 .contentColumnDefault-3eyv5o {
     --background-image: url('https://i.imgur.com/QXVk1er.png');
